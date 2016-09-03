@@ -1,0 +1,10 @@
+This allows multiple iPhone devices to connect over Wifi+Bluetooth.
+One device acts as host and others are guests. Host can play song which
+is streamed to all the guests and play in them too. Though the
+synchronization is not perfect but one can work on it.
+
+I used this loader :
+https://github.com/jonathantribouharet/JTMaterialSpinner The
+Peer-to-Peer connection, streaming and stream-player is based on:
+https://github.com/tonyd256/TDAudioPlayer &
+https://github.com/tonyd256/TDAudioStreamer
